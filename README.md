@@ -1,16 +1,35 @@
-# React + Vite
+# 🌐 Profil Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sebuah halaman profil pribadi yang dibuat menggunakan **Next.js** dan **Tailwind CSS**, lalu dideploy di **Vercel**.  
+Proyek ini berfungsi sebagai personal web untuk menampilkan informasi diri, keahlian, dan kontak secara ringkas dan modern.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [https://profil-page-mu.vercel.app/](https://profil-page-mu.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Teknologi yang Digunakan
 
-## Expanding the ESLint configuration
+- **Next.js** — Framework React untuk pengembangan web modern  
+- **Tailwind CSS** — Utility-first CSS framework untuk styling cepat  
+- **Vercel** — Platform deployment untuk Next.js dan aplikasi front-end  
+- **React Icons / Lucide React** — Untuk ikon UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Cara Menjalankan di Lokal
+
+1. **Clone repository**
+   git clone https://github.com/username/profil-page.git
+   cd profil-page
+   
+2. **Install dependencies**
+   npm install
+
+3. **Jalankan development server**
+   npm run dev
+   
+4. **Buka di browser:**
+   http://localhost:3000
